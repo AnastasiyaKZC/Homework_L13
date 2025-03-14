@@ -1,4 +1,4 @@
-from Homework_5.model.pages.registration_page import RegistrationPage
+from model.pages.registration_page import RegistrationPage
 
 def test_student_registration():
     registration_page = RegistrationPage()
